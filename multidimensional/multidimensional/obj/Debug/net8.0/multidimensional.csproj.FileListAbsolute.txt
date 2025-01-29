@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\multidimensional\multidimensional\bin\Debug\net8.0\multidimensional.exe
+C:\Users\DELL\source\repos\multidimensional\multidimensional\bin\Debug\net8.0\multidimensional.deps.json
+C:\Users\DELL\source\repos\multidimensional\multidimensional\bin\Debug\net8.0\multidimensional.runtimeconfig.json
+C:\Users\DELL\source\repos\multidimensional\multidimensional\bin\Debug\net8.0\multidimensional.dll
+C:\Users\DELL\source\repos\multidimensional\multidimensional\bin\Debug\net8.0\multidimensional.pdb
+C:\Users\DELL\source\repos\multidimensional\multidimensional\obj\Debug\net8.0\multidimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\multidimensional\multidimensional\obj\Debug\net8.0\multidimensional.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\multidimensional\multidimensional\obj\Debug\net8.0\multidimensional.AssemblyInfo.cs
+C:\Users\DELL\source\repos\multidimensional\multidimensional\obj\Debug\net8.0\multidimensional.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\multidimensional\multidimensional\obj\Debug\net8.0\multidimensional.dll
+C:\Users\DELL\source\repos\multidimensional\multidimensional\obj\Debug\net8.0\refint\multidimensional.dll
+C:\Users\DELL\source\repos\multidimensional\multidimensional\obj\Debug\net8.0\multidimensional.pdb
+C:\Users\DELL\source\repos\multidimensional\multidimensional\obj\Debug\net8.0\multidimensional.genruntimeconfig.cache
+C:\Users\DELL\source\repos\multidimensional\multidimensional\obj\Debug\net8.0\ref\multidimensional.dll
