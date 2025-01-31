@@ -1,0 +1,4 @@
+C:\Users\DELL\source\repos\MultipleInheritanceviaInterface\MultipleInheritanceviaInterface\obj\Debug\net8.0\MultipleInheritanceviaInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\MultipleInheritanceviaInterface\MultipleInheritanceviaInterface\obj\Debug\net8.0\MultipleInheritanceviaInterface.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\MultipleInheritanceviaInterface\MultipleInheritanceviaInterface\obj\Debug\net8.0\MultipleInheritanceviaInterface.AssemblyInfo.cs
+C:\Users\DELL\source\repos\MultipleInheritanceviaInterface\MultipleInheritanceviaInterface\obj\Debug\net8.0\MultipleInheritanceviaInterface.csproj.CoreCompileInputs.cache
