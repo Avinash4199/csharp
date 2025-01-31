@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\FileConcepts\FileConcepts\bin\Debug\net8.0\FileConcepts.exe
+C:\Users\DELL\source\repos\FileConcepts\FileConcepts\bin\Debug\net8.0\FileConcepts.deps.json
+C:\Users\DELL\source\repos\FileConcepts\FileConcepts\bin\Debug\net8.0\FileConcepts.runtimeconfig.json
+C:\Users\DELL\source\repos\FileConcepts\FileConcepts\bin\Debug\net8.0\FileConcepts.dll
+C:\Users\DELL\source\repos\FileConcepts\FileConcepts\bin\Debug\net8.0\FileConcepts.pdb
+C:\Users\DELL\source\repos\FileConcepts\FileConcepts\obj\Debug\net8.0\FileConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\FileConcepts\FileConcepts\obj\Debug\net8.0\FileConcepts.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\FileConcepts\FileConcepts\obj\Debug\net8.0\FileConcepts.AssemblyInfo.cs
+C:\Users\DELL\source\repos\FileConcepts\FileConcepts\obj\Debug\net8.0\FileConcepts.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\FileConcepts\FileConcepts\obj\Debug\net8.0\FileConcepts.dll
+C:\Users\DELL\source\repos\FileConcepts\FileConcepts\obj\Debug\net8.0\refint\FileConcepts.dll
+C:\Users\DELL\source\repos\FileConcepts\FileConcepts\obj\Debug\net8.0\FileConcepts.pdb
+C:\Users\DELL\source\repos\FileConcepts\FileConcepts\obj\Debug\net8.0\FileConcepts.genruntimeconfig.cache
+C:\Users\DELL\source\repos\FileConcepts\FileConcepts\obj\Debug\net8.0\ref\FileConcepts.dll
