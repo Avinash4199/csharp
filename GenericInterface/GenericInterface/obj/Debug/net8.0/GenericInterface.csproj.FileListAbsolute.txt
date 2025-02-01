@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\GenericInterface\GenericInterface\obj\Debug\net8.0\GenericInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\GenericInterface\GenericInterface\obj\Debug\net8.0\GenericInterface.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\GenericInterface\GenericInterface\obj\Debug\net8.0\GenericInterface.AssemblyInfo.cs
+C:\Users\DELL\source\repos\GenericInterface\GenericInterface\obj\Debug\net8.0\GenericInterface.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\GenericInterface\GenericInterface\bin\Debug\net8.0\GenericInterface.exe
+C:\Users\DELL\source\repos\GenericInterface\GenericInterface\bin\Debug\net8.0\GenericInterface.deps.json
+C:\Users\DELL\source\repos\GenericInterface\GenericInterface\bin\Debug\net8.0\GenericInterface.runtimeconfig.json
+C:\Users\DELL\source\repos\GenericInterface\GenericInterface\bin\Debug\net8.0\GenericInterface.dll
+C:\Users\DELL\source\repos\GenericInterface\GenericInterface\bin\Debug\net8.0\GenericInterface.pdb
+C:\Users\DELL\source\repos\GenericInterface\GenericInterface\obj\Debug\net8.0\GenericInterface.dll
+C:\Users\DELL\source\repos\GenericInterface\GenericInterface\obj\Debug\net8.0\refint\GenericInterface.dll
+C:\Users\DELL\source\repos\GenericInterface\GenericInterface\obj\Debug\net8.0\GenericInterface.pdb
+C:\Users\DELL\source\repos\GenericInterface\GenericInterface\obj\Debug\net8.0\GenericInterface.genruntimeconfig.cache
+C:\Users\DELL\source\repos\GenericInterface\GenericInterface\obj\Debug\net8.0\ref\GenericInterface.dll
