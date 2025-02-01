@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\nestedtryblock\nestedtryblock\bin\Debug\net8.0\nestedtryblock.exe
+C:\Users\DELL\source\repos\nestedtryblock\nestedtryblock\bin\Debug\net8.0\nestedtryblock.deps.json
+C:\Users\DELL\source\repos\nestedtryblock\nestedtryblock\bin\Debug\net8.0\nestedtryblock.runtimeconfig.json
+C:\Users\DELL\source\repos\nestedtryblock\nestedtryblock\bin\Debug\net8.0\nestedtryblock.dll
+C:\Users\DELL\source\repos\nestedtryblock\nestedtryblock\bin\Debug\net8.0\nestedtryblock.pdb
+C:\Users\DELL\source\repos\nestedtryblock\nestedtryblock\obj\Debug\net8.0\nestedtryblock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\nestedtryblock\nestedtryblock\obj\Debug\net8.0\nestedtryblock.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\nestedtryblock\nestedtryblock\obj\Debug\net8.0\nestedtryblock.AssemblyInfo.cs
+C:\Users\DELL\source\repos\nestedtryblock\nestedtryblock\obj\Debug\net8.0\nestedtryblock.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\nestedtryblock\nestedtryblock\obj\Debug\net8.0\nestedtryblock.dll
+C:\Users\DELL\source\repos\nestedtryblock\nestedtryblock\obj\Debug\net8.0\refint\nestedtryblock.dll
+C:\Users\DELL\source\repos\nestedtryblock\nestedtryblock\obj\Debug\net8.0\nestedtryblock.pdb
+C:\Users\DELL\source\repos\nestedtryblock\nestedtryblock\obj\Debug\net8.0\nestedtryblock.genruntimeconfig.cache
+C:\Users\DELL\source\repos\nestedtryblock\nestedtryblock\obj\Debug\net8.0\ref\nestedtryblock.dll
