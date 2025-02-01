@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\innerexceptionproperty\innerexceptionproperty\bin\Debug\net8.0\innerexceptionproperty.exe
+C:\Users\DELL\source\repos\innerexceptionproperty\innerexceptionproperty\bin\Debug\net8.0\innerexceptionproperty.deps.json
+C:\Users\DELL\source\repos\innerexceptionproperty\innerexceptionproperty\bin\Debug\net8.0\innerexceptionproperty.runtimeconfig.json
+C:\Users\DELL\source\repos\innerexceptionproperty\innerexceptionproperty\bin\Debug\net8.0\innerexceptionproperty.dll
+C:\Users\DELL\source\repos\innerexceptionproperty\innerexceptionproperty\bin\Debug\net8.0\innerexceptionproperty.pdb
+C:\Users\DELL\source\repos\innerexceptionproperty\innerexceptionproperty\obj\Debug\net8.0\innerexceptionproperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\innerexceptionproperty\innerexceptionproperty\obj\Debug\net8.0\innerexceptionproperty.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\innerexceptionproperty\innerexceptionproperty\obj\Debug\net8.0\innerexceptionproperty.AssemblyInfo.cs
+C:\Users\DELL\source\repos\innerexceptionproperty\innerexceptionproperty\obj\Debug\net8.0\innerexceptionproperty.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\innerexceptionproperty\innerexceptionproperty\obj\Debug\net8.0\innerexceptionproperty.dll
+C:\Users\DELL\source\repos\innerexceptionproperty\innerexceptionproperty\obj\Debug\net8.0\refint\innerexceptionproperty.dll
+C:\Users\DELL\source\repos\innerexceptionproperty\innerexceptionproperty\obj\Debug\net8.0\innerexceptionproperty.pdb
+C:\Users\DELL\source\repos\innerexceptionproperty\innerexceptionproperty\obj\Debug\net8.0\innerexceptionproperty.genruntimeconfig.cache
+C:\Users\DELL\source\repos\innerexceptionproperty\innerexceptionproperty\obj\Debug\net8.0\ref\innerexceptionproperty.dll
