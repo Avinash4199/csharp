@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\events\events\bin\Debug\net8.0\events.exe
+C:\Users\DELL\source\repos\events\events\bin\Debug\net8.0\events.deps.json
+C:\Users\DELL\source\repos\events\events\bin\Debug\net8.0\events.runtimeconfig.json
+C:\Users\DELL\source\repos\events\events\bin\Debug\net8.0\events.dll
+C:\Users\DELL\source\repos\events\events\bin\Debug\net8.0\events.pdb
+C:\Users\DELL\source\repos\events\events\obj\Debug\net8.0\events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\events\events\obj\Debug\net8.0\events.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\events\events\obj\Debug\net8.0\events.AssemblyInfo.cs
+C:\Users\DELL\source\repos\events\events\obj\Debug\net8.0\events.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\events\events\obj\Debug\net8.0\events.dll
+C:\Users\DELL\source\repos\events\events\obj\Debug\net8.0\refint\events.dll
+C:\Users\DELL\source\repos\events\events\obj\Debug\net8.0\events.pdb
+C:\Users\DELL\source\repos\events\events\obj\Debug\net8.0\events.genruntimeconfig.cache
+C:\Users\DELL\source\repos\events\events\obj\Debug\net8.0\ref\events.dll
