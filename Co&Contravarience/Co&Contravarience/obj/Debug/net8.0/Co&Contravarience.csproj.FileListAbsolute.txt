@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Co&Contravarience\Co&Contravarience\bin\Debug\net8.0\Co&Contravarience.exe
+C:\Users\DELL\source\repos\Co&Contravarience\Co&Contravarience\bin\Debug\net8.0\Co&Contravarience.deps.json
+C:\Users\DELL\source\repos\Co&Contravarience\Co&Contravarience\bin\Debug\net8.0\Co&Contravarience.runtimeconfig.json
+C:\Users\DELL\source\repos\Co&Contravarience\Co&Contravarience\bin\Debug\net8.0\Co&Contravarience.dll
+C:\Users\DELL\source\repos\Co&Contravarience\Co&Contravarience\bin\Debug\net8.0\Co&Contravarience.pdb
+C:\Users\DELL\source\repos\Co&Contravarience\Co&Contravarience\obj\Debug\net8.0\Co&Contravarience.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Co&Contravarience\Co&Contravarience\obj\Debug\net8.0\Co&Contravarience.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Co&Contravarience\Co&Contravarience\obj\Debug\net8.0\Co&Contravarience.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Co&Contravarience\Co&Contravarience\obj\Debug\net8.0\Co&Contravarience.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Co&Contravarience\Co&Contravarience\obj\Debug\net8.0\Co&Contravarience.dll
+C:\Users\DELL\source\repos\Co&Contravarience\Co&Contravarience\obj\Debug\net8.0\refint\Co&Contravarience.dll
+C:\Users\DELL\source\repos\Co&Contravarience\Co&Contravarience\obj\Debug\net8.0\Co&Contravarience.pdb
+C:\Users\DELL\source\repos\Co&Contravarience\Co&Contravarience\obj\Debug\net8.0\Co&Contravarience.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Co&Contravarience\Co&Contravarience\obj\Debug\net8.0\ref\Co&Contravarience.dll
