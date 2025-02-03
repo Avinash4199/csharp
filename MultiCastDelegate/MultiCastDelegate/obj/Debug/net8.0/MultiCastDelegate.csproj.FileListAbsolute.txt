@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\MultiCastDelegate\MultiCastDelegate\bin\Debug\net8.0\MultiCastDelegate.exe
+C:\Users\DELL\source\repos\MultiCastDelegate\MultiCastDelegate\bin\Debug\net8.0\MultiCastDelegate.deps.json
+C:\Users\DELL\source\repos\MultiCastDelegate\MultiCastDelegate\bin\Debug\net8.0\MultiCastDelegate.runtimeconfig.json
+C:\Users\DELL\source\repos\MultiCastDelegate\MultiCastDelegate\bin\Debug\net8.0\MultiCastDelegate.dll
+C:\Users\DELL\source\repos\MultiCastDelegate\MultiCastDelegate\bin\Debug\net8.0\MultiCastDelegate.pdb
+C:\Users\DELL\source\repos\MultiCastDelegate\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\MultiCastDelegate\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\MultiCastDelegate\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.AssemblyInfo.cs
+C:\Users\DELL\source\repos\MultiCastDelegate\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MultiCastDelegate\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.dll
+C:\Users\DELL\source\repos\MultiCastDelegate\MultiCastDelegate\obj\Debug\net8.0\refint\MultiCastDelegate.dll
+C:\Users\DELL\source\repos\MultiCastDelegate\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.pdb
+C:\Users\DELL\source\repos\MultiCastDelegate\MultiCastDelegate\obj\Debug\net8.0\MultiCastDelegate.genruntimeconfig.cache
+C:\Users\DELL\source\repos\MultiCastDelegate\MultiCastDelegate\obj\Debug\net8.0\ref\MultiCastDelegate.dll
