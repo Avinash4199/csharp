@@ -1,0 +1,44 @@
+.home-container {
+    text-align: center;
+    background-image: url('https://blog.stocktake-online.com/hs-fs/hubfs/challenges-and-considerations-in-food-recipes.jpg?width=1067&height=600&name=challenges-and-considerations-in-food-recipes.jpg'); /* Replace with your image URL */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+.header {
+    background-color: #0078FF;
+    color: #fff;
+    padding: 20px;
+}
+
+.header nav a {
+    margin: 0 15px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.main-content {
+    margin-top: 30px;
+    background: rgba(255, 255, 255, 0.8); /* Adds a slight white overlay for readability */
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.auth-links {
+    margin-top: 20px;
+}
+
+.auth-links a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #0078FF;
+    font-weight: bold;
+}
+
+.auth-links a:last-child {
+    margin-right: 0;
+}
